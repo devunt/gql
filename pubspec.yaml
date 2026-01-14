@@ -1,4 +1,4 @@
-name: gql_monorepo
+name: gql
 publish_to: none
 
 environment:
